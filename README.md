@@ -1,8 +1,12 @@
 # 👋 Hey there, I'm Kiran Kumar Reddy Savireddy!
 
 Welcome to my **interactive portfolio repository** 🎉.  
-If you’re here, you’re probably curious about **how I built my personal website**, or maybe you want to create your own.  
-Either way, you’re in the right place. Let’s dive in! 🚀
+If you’re here, you’re probably curious about **how I built my personal website**,  
+or maybe you want to create your own. Either way, you’re in the right place. 🚀
+
+🌐 **[Click here to view my live portfolio](https://v0.dev/chat/kiran-portfolio-hmKLYmhOfYA)**
+
+Explore my work, projects, and skills in action! ✨
 
 ---
 
