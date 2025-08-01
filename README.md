@@ -18,3 +18,6 @@ A modern personal portfolio website built with **Next.js**, **Tailwind CSS**, an
 1. Clone the repository:
    ```bash
    git clone https://github.com/SavireddyKiranKumarReddy/kiran-portfolio.git
+   git add README.md
+   git commit -m "Add professional README"
+   git push origin main
