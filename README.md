@@ -1,45 +1,58 @@
-# 👋 Hey there! Welcome to My Portfolio Repository
+# 👋 Hey there, I'm Kiran Kumar Reddy Savireddy!
 
-Hi, I’m **Kiran Kumar Reddy Savireddy** – a passionate B.Tech student specializing in **Cyber Security** who loves building modern web projects.  
-
-This repository contains the **source code for my personal portfolio website**, built to showcase my projects, skills, and journey in tech 🚀.  
-
----
-
-## 💡 Why I Built This
-
-I wanted a **modern, fast, and elegant portfolio** where I can:
-
-- Showcase my **projects and achievements**  
-- Experiment with **ShadCN UI + Tailwind CSS** for a stunning design  
-- Share my **technical learning journey** with the world  
-
-If you are a student, developer, or tech enthusiast, you can **learn how to create a professional portfolio like this** by exploring this repo.  
+Welcome to my **interactive portfolio repository** 🎉.  
+If you’re here, you’re probably curious about **how I built my personal website**, or maybe you want to create your own.  
+Either way, you’re in the right place. Let’s dive in! 🚀
 
 ---
 
-## 🛠️ How I Built It
+## 🌟 About This Portfolio
+
+I built this portfolio to:
+
+1. **Showcase** my projects, skills, and achievements  
+2. **Share knowledge** about Cyber Security, Web Development, and AI  
+3. **Guide** others on how to build a professional online presence  
+
+This isn’t just a website—it’s a **learning project** and a **tech playground**.
+
+---
+
+## 🛠️ Tech Stack
 
 This project is powered by:
 
-- **[Next.js 14](https://nextjs.org/)** – App Router, TypeScript support  
-- **[Tailwind CSS](https://tailwindcss.com/)** – For sleek, responsive UI styling  
-- **[ShadCN UI](https://ui.shadcn.com/)** – Modern and accessible UI components  
-- **TypeScript** – For type safety and cleaner code  
-
-I also structured my code with:
-
-- `app/` – Next.js pages and layout  
-- `components/` – Reusable and animated UI sections  
-- `hooks/` – Custom React hooks for smooth interactivity  
-- `lib/` – Utility functions and helpers  
+- **[Next.js](https://nextjs.org/)** – Fast React framework with App Router
+- **[Tailwind CSS](https://tailwindcss.com/)** – Elegant utility-first styling
+- **[ShadCN UI](https://ui.shadcn.com/)** – Modern, accessible components
+- **TypeScript** – For clean and maintainable code
 
 ---
 
-## 📚 Learn & Try It Yourself
+## 📂 Features
 
-If you want to **run this portfolio locally** or learn from it:
+- 🎨 **Beautiful Hero Section** with animations & greeting  
+- 🛡 **Cyber Security Focused Projects**  
+- 🖥 **Project Showcase** with screenshots and GitHub links  
+- 🧠 **Mini Blog** to share knowledge & tips  
+- 📨 **Contact Form** to reach me directly  
+- 🌗 **Dark / Light Mode** for a modern look  
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/SavireddyKiranKumarReddy/kiran-portfolio.git
+---
+
+## 🚀 Run Locally
+
+If you want to **explore or fork this repo**:
+
+```bash
+# Clone this repository
+git clone https://github.com/SavireddyKiranKumarReddy/kiran-portfolio.git
+
+# Navigate to the folder
+cd kiran-portfolio
+
+# Install dependencies
+npm install --legacy-peer-deps
+
+# Run the development server
+npm run dev
