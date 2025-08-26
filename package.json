@@ -2,8 +2,7 @@
   "name": "my-v0-project",
   "version": "0.1.0",
   "private": true,
-<<<<<<< HEAD
-  "homepage": "https://savireddykirankumarreddy.github.io/kiran-portfolio-main",
+  "homepage": "https://savireddykirankumarreddy.github.io/kiran-portfolio",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -11,13 +10,6 @@
     "lint": "next lint",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d out"
-=======
-  "scripts": {
-    "build": "next build",
-    "dev": "next dev",
-    "lint": "next lint",
-    "start": "next start"
->>>>>>> 11133029cdd7347483fc44290849ac0c4bd07fd4
   },
   "dependencies": {
     "@hookform/resolvers": "^3.9.1",
@@ -75,10 +67,7 @@
     "@types/node": "^22",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-<<<<<<< HEAD
     "gh-pages": "^6.3.0",
-=======
->>>>>>> 11133029cdd7347483fc44290849ac0c4bd07fd4
     "postcss": "^8.5",
     "tailwindcss": "^3.4.17",
     "typescript": "^5"
